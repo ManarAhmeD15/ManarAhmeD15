@@ -40,13 +40,10 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-    
+      
 ## Github Stats
     
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManarAhmeD15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManarAhmeD15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
 
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
