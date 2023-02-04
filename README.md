@@ -35,10 +35,10 @@ I am a software engineer fresh graduated from BFCAI B. SC. in Computer Science p
     
 ## Github Stats
  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAhmeD15)
 
- <div align="center"><![Top Langs](https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&count_private=true&hide_border=true) align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
