@@ -49,15 +49,8 @@
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
 <p align="right">
 
-
-
-  <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAhmeD15&layout=compact&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
+<img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAhmeD15&layout=compact&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAhmeD15)
 
-
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
