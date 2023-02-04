@@ -45,6 +45,16 @@
 <br/>  
     
 ## Github Stats
+    
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ManarAhmeD15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
+
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
+<p align="right">
+
+
+
+  <img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAhmeD15&layout=compact&theme=radical&hide_border=true" alt="ManarAhmeD15" /></p>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAhmeD15)
 
