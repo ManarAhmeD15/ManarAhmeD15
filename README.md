@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there ,I'm Manar 👋❤️
 
-#### I am a software engineer fresh graduated from BFCAI
-![I am a software engineer fresh graduated from BFCAI](https://scontent-mrs2-2.xx.fbcdn.net/v/t39.30808-6/294842922_1136064753644010_2888633512496601463_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHKFA9jXyJjxMEiY-3O8a7QfWWzbQYQBN99ZbNtBhAE364aeApR97t2gE8BDIjnyZK2EKtyjx_pATFemGn743Ve&_nc_ohc=E0_vEwI33qAAX_3D-W9&_nc_ht=scontent-mrs2-2.xx&oh=00_AfCpiSuHf4n4ps_H7ZPxQaHkmjheyjXUNrmU13OQJL2zcA&oe=63E2A772)
-
+## I am a software engineer fresh graduated from BFCAI
 
 ## 🧰 &nbsp;My Languages and tools
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="80" /> 
