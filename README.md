@@ -1,6 +1,6 @@
 ### Hi there ,I'm Manar 👋❤️
 
-## I am a software engineer fresh graduated from BFCAI
+# I am a software engineer fresh graduated from BFCAI B. SC. in Computer Science passionate about Mobile Development with 1-year experience in mobile application development looking for any opportunity with an expert team of developers with whom I will try to gain some experience, and advance my career progression so that I will be able to reach senior positions in the future.
 
 ## 🧰 &nbsp;My Languages and tools
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="80" /> 
@@ -11,10 +11,11 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="80" />
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="80" />
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="80" />
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="80" />
+  <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="80" />
 
-## Connect with me  
-<div align="center">
+## 💬 Connect with me  
+    
+<div align="left">
 <a href="https://github.com/ManarAhmeD15" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -33,7 +34,7 @@
 <br/>  
 
 
-## Github Stats  
+## 📊 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
