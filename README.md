@@ -8,6 +8,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" align="right" height="200"/>
 
+- 🌱 I’m currently learning Flutter & Dart 
+
 
 ## 🧰 &nbsp;My Languages and tools
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="70" /> 
