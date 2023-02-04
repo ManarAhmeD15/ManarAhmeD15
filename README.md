@@ -1,6 +1,6 @@
 ### Hi there ,I'm Manar 👋❤️
 
-# I am a software engineer fresh graduated from BFCAI B. SC. in Computer Science passionate about Mobile Development with 1-year experience in mobile application development looking for any opportunity with an expert team of developers with whom I will try to gain some experience, and advance my career progression so that I will be able to reach senior positions in the future.
+I am a software engineer fresh graduated from BFCAI B. SC. in Computer Science passionate about Mobile Development with 1-year experience in mobile application development looking for any opportunity with an expert team of developers with whom I will try to gain some experience, and advance my career progression so that I will be able to reach senior positions in the future.
 
 ## 🧰 &nbsp;My Languages and tools
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="80" /> 
@@ -32,9 +32,13 @@
   
 
 <br/>  
+    
+## 📊 Most Used Languages  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManarAhmeD15)](https://github.com/anuraghazra/github-readme-stats
 
 ## 📊 Github Stats  
+    
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ManarAhmeD15&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
